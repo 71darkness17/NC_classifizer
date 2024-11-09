@@ -47,9 +47,9 @@
 * pandas (Работа с таблицами и данными)
 
 <a name='authors'><h2>Авторы</h2></a>
-* [Буланов Егор](https://github.com/Dezmant8) - Аналитик, Product Manager
-* [Фирсова Валерия](https://github.com/Dorila24) - Аналитик
-* [Заворохин Владимир](https://github.com/71darkness17) - Data Scientist
-* [Зиновьев Дмитрий](https://github.com/dmitryz1024) - ML/DL
+* [Буланов Егор](https://github.com/Dezmant8) - Analyst, Product Manager
+* [Фирсова Валерия](https://github.com/Dorila24) - Analyst, Designer
+* [Заворохин Владимир](https://github.com/71darkness17) - Data Scientist, Data Analyst
+* [Зиновьев Дмитрий](https://github.com/dmitryz1024) - ML/DL, Techlead
 * [Босенко Тимофей](https://github.com/camtimhamilton) - Frontend, API, Teamlead
 
