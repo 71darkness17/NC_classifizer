@@ -28,7 +28,7 @@ __Особенностью__ нашего решения является фор
 2) Зайти в PowerShell и перейти в ./NC_classifizer
 3) Ввести в PowerShell
 ```
-   pip install -r "requiments.txt"
+   pip install -r "requirements.txt"
    ```
 4) Запустить NC_classifizer.bat
 ### Интеграция с API
