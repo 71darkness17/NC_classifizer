@@ -28,8 +28,6 @@ __Особенностью__ нашего решения является фор
 2) Зайти в PowerShell и перейти в ./NC_classifizer
 3) Ввести в PowerShell
 ```
-   python3 -m venv venv
-   .\venv\Scripts\activate
    pip install -r "requiments.txt"
    ```
 4) Запустить NC_classifizer.bat
