@@ -30,7 +30,7 @@ __Особенностью__ нашего решения является фор
 ```
    python3 -m venv venv
    .\venv\Scripts\activate
-   pip install - "requiments"
+   pip install -r "requiments.txt"
    ```
 4) Запустить NC_classifizer.bat
 ### Интеграция с API
