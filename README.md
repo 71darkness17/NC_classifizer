@@ -25,7 +25,13 @@ __Особенностью__ нашего решения является фор
 <a name="install"><h2>Установка</h2></a>
 ### Серверная/Клиентская часть:
 1) Установить NC_classifizer.zip на вашу систему и распоковать в ./NC_classifizer
-2) Запустить NC_classifizer.bat
+2) Зайти в PowerShell и перейти в ./NC_classifizer
+3) Ввести в PowerShell
+```
+   .\venv\Scripts\activate
+   pip install - "requiments"
+   ```
+4) Запустить NC_classifizer.bat
 ### Интеграция с API
 создайте запрос согласно документации к [API NC_classifizer](#api)
 <a name="get_started"><h2>Начало работы</h2></a>
